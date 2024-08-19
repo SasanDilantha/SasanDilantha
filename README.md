@@ -32,13 +32,13 @@ Hi, I'm Sasan Dilantha!
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/SasanDilantha/Project_II_CST20_16_Backend)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning ML for Edge Computing and ROS  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to FOSS and Full stack web development 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: The first computer bug was an actual moth!  
   
 
 <br/>  
