@@ -41,7 +41,7 @@ Hi, I'm Sasan Dilantha!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Robotics|IoT%|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Interested+in+Robotics+and+IoT;Tech%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -53,7 +53,7 @@ Hi, I'm Sasan Dilantha!
 
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/SasanDilantha/Project_II_CST20_16_Backend)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
